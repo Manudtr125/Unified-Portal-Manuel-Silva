@@ -1,0 +1,8 @@
+🚀 Unified Portal — Technical PoC
+
+Built a neutral PoC that centralizes internal tools with SSO-ready authentication and a custom launcher to open apps in dedicated browser profiles. 
+Tech: Next.js, Node.js, Electron, Azure AD (NextAuth), Intune packaging.
+
+Available on GitHub: https://github.com/Manudtr125/Unified-Portal-Manuel-Silva
+
+#nextjs #azuread #devops #sso

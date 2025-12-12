@@ -1,0 +1,15 @@
+🚀 Unified Portal — Technical Proof of Concept (PoC)
+
+Over the past weeks I developed a neutral, portfolio-ready PoC that demonstrates a unified internal portal architecture designed to improve developer and operations workflows.
+
+Key highlights:
+- Next.js frontend for a fast, modern UX
+- SSO-ready with NextAuth (Azure AD integration guidance included)
+- Custom protocol handler (portal://) and a local launcher (Node/Electron) to open browser profiles per application
+- Packaging guidance for enterprise deployment (Intune), runbook and CI/CD recommendations
+
+Repository: https://github.com/Manudtr125/Unified-Portal-Manuel-Silva
+
+If you’re curious or want a short demo, I’m happy to show how it works.
+
+#softwareengineering #nextjs #azuread #devops #sso #nodejs
