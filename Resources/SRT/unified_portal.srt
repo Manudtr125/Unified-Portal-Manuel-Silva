@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:03,000
+PT: Bem-vindo ao Unified Portal.
+EN: Welcome to the Unified Portal.

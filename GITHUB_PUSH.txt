@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "Initial commit - Unified Portal PoC by Manuel Silva"
+# create repo on GitHub and push
